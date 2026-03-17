@@ -17,7 +17,7 @@ I am an **Information and Communication Technology (ICT) Engineering** student a
 * **Tools:** Git 📂
 
 ## 📊 Currently Working On
-* 🎵 **Bash scripts for audio download:** Enhancing my tools for media management and `yt-dlp` semi-automation.
+* 🎵 **Bash scripts for audio download:** Enhancing my tools for `yt-dlp` semi-automation.
 * 🎓 Engineering degree at **UTL**.
 
 ---
